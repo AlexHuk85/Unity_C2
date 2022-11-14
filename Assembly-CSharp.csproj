@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{ED2A51D3-0CAC-CB6B-124E-C4E8B496A0E8}</ProjectGuid>
+    <ProjectGuid>{7C919750-87D2-AC6B-8685-4003C17344AC}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -58,6 +58,7 @@
   <ItemGroup>
     <Compile Include="Assets\Spin.cs" />
     <Compile Include="Assets\MouseLook.cs" />
+    <Compile Include="Assets\FPSInput.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
